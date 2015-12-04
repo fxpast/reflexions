@@ -1,0 +1,14 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When I initialize with git init, many directories are create in folder .git
+I need to do it in order to get branch git directory
+
+when run git status, I get :
+
+Initial commit
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	lesson_1_reflections.txt
+	lesson_2_reflections.txt

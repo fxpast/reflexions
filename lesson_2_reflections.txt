@@ -12,3 +12,61 @@ Untracked files:
 
 	lesson_1_reflections.txt
 	lesson_2_reflections.txt
+    
+    
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+staging area is able to add a tracking file    
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+firstly use command : git status
+secondly use command : git add
+thirdly use command : git commit -m "message about logical change"
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When I wnat to give new perspective to my project for instance to internationalize my app. I can create a branch for each language.
+
+
+
+easy-mode branch
+*easy
+
+
+Master branch
+
+* fee7221 Add delay back to bullet
+*
+*
+*
+* df03538 I can't spell 'screen' apparently :)
+
+
+
+
+Coins branch
+
+* 354dfdd Make ships able to spawn on coins
+*
+*
+* 656b02e First pass at adding coins
+
+
+
+Master branch
+
+* b0678b1 Revert controls
+*
+*
+*
+* f734752 doing things a little more OO
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+the master becomes the main branch and we have to delete the second
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pros : Automatic merging is faster. 
+Cons : Automatic merging is not designed for complext code.

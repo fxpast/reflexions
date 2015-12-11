@@ -18,3 +18,7 @@ Easy to compare and easy to merge
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 I used to collaborate with another tool like mantis, but I think that Git can help better to follow differents releases of a software.
+
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+I think that separate branch can be very intersting when you give a new direction in you work.

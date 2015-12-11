@@ -14,3 +14,7 @@ branch : is used to commit , to log, and to remote file.
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 Easy to compare and easy to merge
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I used to collaborate with another tool like mantis, but I think that Git can help better to follow differents releases of a software.
